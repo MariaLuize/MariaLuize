@@ -23,8 +23,9 @@
   
   ---
   
-  - 🔭 I’m currently working on a Muilti Agent System for [MapBiomas](https://brasil.mapbiomas.org) platform integration and management
-  - 🌱 I’m currently learning LangChain with Gemini and Ollama models
+  - 🔭 I’m currently working on a Multi Agent System for [MapBiomas](https://brasil.mapbiomas.org) platform integration and management
+  - 🌱 I’m currently learning Agno with Gemini and Ollama models
+  - 🌱 I’m currently learning to use JAX framework for geo-semantic segmentation models
 
 <!--
 **MariaLuize/MariaLuize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
